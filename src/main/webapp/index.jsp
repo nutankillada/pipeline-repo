@@ -5,7 +5,7 @@
     <title>Current Date</title>
     <style>
         h1 {
-            font-size: 60px;
+            font-size: 50px;
         }
     </style>
 </head>
