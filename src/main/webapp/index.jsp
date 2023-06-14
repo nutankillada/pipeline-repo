@@ -11,7 +11,7 @@
 </head>
 <body>
     <h1>
-        Current Date: <%= new java.util.Date() %>
+        Current Date and time: <%= new java.util.Date() %>
     </h1>
 </body>
 </html>
