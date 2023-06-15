@@ -2,16 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Current Date</title>
+    <title>Current Date in web</title>
     <style>
         h1 {
-            font-size: 40px;
+            font-size: 60px;
         }
     </style>
 </head>
 <body>
     <h1>
-        Current Date: <%= new java.util.Date() %>
+        Current Date and time: <%= new java.util.Date() %>
     </h1>
 </body>
 </html>
